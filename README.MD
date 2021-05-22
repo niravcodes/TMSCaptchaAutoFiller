@@ -13,5 +13,5 @@ Cool. Do the following:
 1. Download this repo as a ZIP file (or clone it, whatever), and unzip.
 2. On Google Chrome, navigate to `chrome://extensions`
 3. Turn on the Developer mode (toggle switch, top right)
-4. Click on the newly materialized Load `unpacked` button, and select the folder containing this repo.
+4. Click on the newly materialized `Load unpacked` button, and select the folder containing this repo.
 5. Done! Now how're you going to spend the time you save with this extension?
