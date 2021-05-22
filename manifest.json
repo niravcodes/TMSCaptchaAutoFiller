@@ -1,0 +1,28 @@
+{
+  "name": "TMS Captcha Autofiller",
+  "description": "This extention will autofill TMS captchas. Made by nirav.com.np",
+  "version": "0.5",
+  "manifest_version": 3,
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "assets/np16.png",
+      "32": "assets/np32.png",
+      "48": "assets/np48.png",
+      "128": "assets/np128.png"
+    }
+  },
+  "icons": {
+    "16": "assets/np16.png",
+    "32": "assets/np32.png",
+    "48": "assets/np48.png",
+    "128": "assets/np128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.nepsetms.com.np/login"],
+      "js": ["contentScript.js"]
+    }
+  ]
+}
