@@ -6,6 +6,10 @@ About ten lines of JS code which make it so that you never have to manually inpu
 
 Read the corresponding blog post at [nirav.com.np](https://nirav.com.np/2021/05/22/the-tms-website-sucks-so-i-made-a-captcha-autofiller.html)
 
+# Important update: 
+
+Seems like some brokers changed their implementation of captcha system (but not mine hehehe) so it might not work for me.
+
 ## "I want this!"
 
 **Update:** The extension is now available in [Google Extension store](https://chrome.google.com/webstore/detail/tms-captcha-autofiller/bbnmlbcjjojlcigkphmancneeplopmhg). So you can download the app from official Google channel. [Download Here](https://chrome.google.com/webstore/detail/tms-captcha-autofiller/bbnmlbcjjojlcigkphmancneeplopmhg)
