@@ -8,7 +8,7 @@ Read the corresponding blog post at [nirav.com.np](https://nirav.com.np/2021/05/
 
 # Important update: 
 
-Seems like some brokers changed their implementation of captcha system (but not mine hehehe) so it might not work for me.
+Seems like some brokers changed their implementation of captcha system (but not mine hehehe) so it might not work for you.
 
 **Update 2:** My broker has also changed the implementation of their captcha system. May this little extention rest in peace ✌️
 
