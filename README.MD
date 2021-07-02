@@ -10,11 +10,11 @@ Read the corresponding blog post at [nirav.com.np](https://nirav.com.np/2021/05/
 
 Seems like some brokers changed their implementation of captcha system (but not mine hehehe) so it might not work for me.
 
+**Update 2:** My broker has also changed the implementation of their captcha system. May this little extention rest in peace ✌️
+
 ## "I want this!"
 
 **Update:** The extension is now available in [Google Extension store](https://chrome.google.com/webstore/detail/tms-captcha-autofiller/bbnmlbcjjojlcigkphmancneeplopmhg). So you can download the app from official Google channel. [Download Here](https://chrome.google.com/webstore/detail/tms-captcha-autofiller/bbnmlbcjjojlcigkphmancneeplopmhg)
-
-**Update 2:** My broker has also changed the implementation of their captcha system. May this little extention rest in peace ✌️
 
 Cool. Do the following:
 
