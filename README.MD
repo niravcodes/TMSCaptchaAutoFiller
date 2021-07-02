@@ -14,6 +14,8 @@ Seems like some brokers changed their implementation of captcha system (but not 
 
 **Update:** The extension is now available in [Google Extension store](https://chrome.google.com/webstore/detail/tms-captcha-autofiller/bbnmlbcjjojlcigkphmancneeplopmhg). So you can download the app from official Google channel. [Download Here](https://chrome.google.com/webstore/detail/tms-captcha-autofiller/bbnmlbcjjojlcigkphmancneeplopmhg)
 
+**Update 2:** My broker has also changed the implementation of their captcha system. May this little extention rest in peace ✌️
+
 Cool. Do the following:
 
 1. Download this repo as a ZIP file (or clone it, whatever), and unzip.
